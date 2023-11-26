@@ -7,7 +7,8 @@ These articles and papers cover several important topics.
 
 | Title | Author | URL | 
 |-------|--------|-----|
-|A History and Survey of Network Firewalls | Forrest & Ingham | https://www.cs.unm.edu/~treport/tr/02-12/firewall.pdf |
+| A History and Survey of Network Firewalls | Forrest & Ingham | https://www.cs.unm.edu/~treport/tr/02-12/firewall.pdf |
+| Putting the You in CPU | Lexi Mattick & Hack Club | https://github.com/hackclub/putting-the-you-in-cpu |
 
 ## To Watch:
 
