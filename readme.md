@@ -8,7 +8,7 @@ These articles and papers cover several important topics.
 | Title | Author | URL | 
 |-------|--------|-----|
 | A History and Survey of Network Firewalls | Forrest & Ingham | https://www.cs.unm.edu/~treport/tr/02-12/firewall.pdf |
-| Putting the You in CPU | Lexi Mattick & Hack Club | https://github.com/hackclub/putting-the-you-in-cpu |
+| Evolution of the Firewall Industry | Cisco Systems | https://docstore.mik.ua/univercd/cc/td/doc/product/iaabu/centri4/user/scf4ch3.htm |
 
 ## To Watch:
 
