@@ -11,10 +11,13 @@ These articles and papers cover several important topics.
 | A History and Survey of Network Firewalls | Forrest & Ingham | https://www.cs.unm.edu/~treport/tr/02-12/firewall.pdf |
 | Evolution of the Firewall Industry | Cisco Systems | https://docstore.mik.ua/univercd/cc/td/doc/product/iaabu/centri4/user/scf4ch3.htm |
 | Understanding TCP/IP | Cisco Systems | https://docstore.mik.ua/univercd/cc/td/doc/product/iaabu/centri4/user/scf4ap1.htm |
-| Networking with Microsoft TCP/IP | Drew Heywood | https://archive.org/details/networkingwithmi0000heyw |
-| Building Internet Firewalls | Elizabeth Zwicky | https://archive.org/details/buildinginternet00zwic |
+| Beej's Guide to Network Programming | Brian "Beej Jorgensen" Hall | https://beej.us/guide/bgnet/html/#intro |
 
 ### Books
+| Title | Author | URL | 
+|-------|--------|-----|
+| Networking with Microsoft TCP/IP | Drew Heywood | https://archive.org/details/networkingwithmi0000heyw |
+| Building Internet Firewalls | Elizabeth Zwicky | https://archive.org/details/buildinginternet00zwic |
 
 ## To Watch:
 
