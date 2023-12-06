@@ -12,6 +12,7 @@ These articles and papers cover several important topics.
 | Evolution of the Firewall Industry | Cisco Systems | https://docstore.mik.ua/univercd/cc/td/doc/product/iaabu/centri4/user/scf4ch3.htm |
 | Understanding TCP/IP | Cisco Systems | https://docstore.mik.ua/univercd/cc/td/doc/product/iaabu/centri4/user/scf4ap1.htm |
 | Beej's Guide to Network Programming | Brian "Beej Jorgensen" Hall | https://beej.us/guide/bgnet/html/#intro |
+| HTTP | MDN Web Docs | https://developer.mozilla.org/en-US/docs/Web/HTTP |
 
 ### Books
 | Title | Author | URL | 
