@@ -1,0 +1,84 @@
+* Learning Resources for the Aspiring Security Analyst
+  :PROPERTIES:
+  :CUSTOM_ID: learning-resources-for-the-aspiring-security-analyst
+  :END:
+
+Test commit
+
+** To Read:
+   :PROPERTIES:
+   :CUSTOM_ID: to-read
+   :END:
+
+These articles and papers cover several important topics.
+
+*** Online Resources
+    :PROPERTIES:
+    :CUSTOM_ID: online-resources
+    :END:
+
+| Title                                         | Author                               | URL                                                                                                                                                             |
+|-----------------------------------------------+--------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| A History and Survey of Network Firewalls     | Forrest & Ingham                     | https://www.cs.unm.edu/~treport/tr/02-12/firewall.pdf                                                                                                           |
+| Evolution of the Firewall Industry            | Cisco Systems                        | https://docstore.mik.ua/univercd/cc/td/doc/product/iaabu/centri4/user/scf4ch3.htm                                                                               |
+| Understanding TCP/IP                          | Cisco Systems                        | https://docstore.mik.ua/univercd/cc/td/doc/product/iaabu/centri4/user/scf4ap1.htm                                                                               |
+| Beej's Guide to Network Programming           | Brian "Beej Jorgensen" Hall          | https://beej.us/guide/bgnet/html/#intro                                                                                                                         |
+| HTTP                                          | MDN Web Docs                         | https://developer.mozilla.org/en-US/docs/Web/HTTP                                                                                                               |
+| UDP                                           | Khan Academy                         | https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:transporting-packets/a/user-datagram-protocol-udp |
+| How to Use tcpdump to Analyze Network Traffic | Linode                               | https://www.linode.com/docs/guides/how-to-use-tcpdump-to-analyze-traffic/                                                                                       |
+| DNS Logging                                   | Madalina Popovici & Heimdal Security | https://heimdalsecurity.com/blog/dns-logging-what-it-is-and-how-can-it-help-in-preventing-dns-attacks/                                                          |
+| What is ICMP?                                 | Kihara Kimachia                      | https://www.enterprisenetworkingplanet.com/standards-protocols/what-is-icmp/                                                                                    |
+
+*** Books
+    :PROPERTIES:
+    :CUSTOM_ID: books
+    :END:
+
+| Title                            | Author           | URL                                                  |
+|----------------------------------+------------------+------------------------------------------------------|
+| Networking with Microsoft TCP/IP | Drew Heywood     | https://archive.org/details/networkingwithmi0000heyw |
+| Building Internet Firewalls      | Elizabeth Zwicky | https://archive.org/details/buildinginternet00zwic   |
+
+** To Watch:
+   :PROPERTIES:
+   :CUSTOM_ID: to-watch
+   :END:
+
+*** Youtube:
+    :PROPERTIES:
+    :CUSTOM_ID: youtube
+    :END:
+
+**** Channels:
+     :PROPERTIES:
+     :CUSTOM_ID: channels
+     :END:
+
+**** Videos:
+     :PROPERTIES:
+     :CUSTOM_ID: videos
+     :END:
+
+| Title                                | Author              | URL                                         |
+|--------------------------------------+---------------------+---------------------------------------------|
+| Let's read the Linux TCP source code | Ants Are Everywhere | https://www.youtube.com/watch?v=8PVufdYi2zs |
+
+*** Peertube:
+    :PROPERTIES:
+    :CUSTOM_ID: peertube
+    :END:
+
+*** Movies:
+    :PROPERTIES:
+    :CUSTOM_ID: movies
+    :END:
+
+** To Listen to:
+   :PROPERTIES:
+   :CUSTOM_ID: to-listen-to
+   :END:
+
+** To Do:
+   :PROPERTIES:
+   :CUSTOM_ID: to-do
+   :END:
