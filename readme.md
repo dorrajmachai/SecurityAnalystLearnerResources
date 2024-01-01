@@ -4,7 +4,8 @@
 1. [Learning Resources for the Aspiring Security Analyst](#learning-resources-for-the-aspiring-security-analyst)
     1. [Articles and Guides](#articles-and-guides)
     2. [Books](#books)
-    3. [To-Do](#to-do)
+    3. [Tools](#tools)
+    4. [To-Do](#to-do)
 
 # Learning Resources for the Aspiring Security Analyst
 
@@ -27,10 +28,20 @@ Articles you can find online to supplement your course materials. Not organized 
  | Madalina Popovici w/ Heimdal Security | [DNS Logging](https://heimdalsecurity.com/blog/dns-logging-what-it-is-and-how-can-it-help-in-preventing-dns-attacks/)      |
  |               Wikipedia               | [ICMP](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)                                                    |
  |              Wikiversity              | [Internet Protocol Analysis](https://en.wikiversity.org/wiki/Internet_Protocol_Analysis/Internet_Control_Message_Protocol) |
+ |        Kulshrestha, Song, & Zhu       | [The Inner Workings of Network Security](https://arxiv.org/ftp/arxiv/papers/2312/2312.15150.pdf)                           |
+ |           Abernathy & Hayes           | [Asset Security](https://www.pearsonitcertification.com/articles/article.aspx?p=3167978&seqNum=2)                          |
 
 ## Books
 
 Important books to read, ordered by level of complexity.
+
+## Tools
+
+A list of tools that might be relevant to you and your interests.
+
+| Name                        |                        Description                       | Current Version |
+|:--------------------------- |:--------------------------------------------------------:| ---------------:|
+| [Scapy](https://scapy.net/) | Scapy is a packet manipulation library written in Python |           2.5.0 |
 
 ## To-Do
 
@@ -40,3 +51,5 @@ Additions I need to make to complete this resource (suggestions welcome!).
     - Get links for all materials.
     - Compare content to determine level of difficulty.
     - Order content based on findings.
+2. Create a section for libraries and tools for people to learn and use based on their needs.
+    - Create sections for the name with a link to the main page or repository, a section about its use case, and a section for the tool's current version at the time of writing.
